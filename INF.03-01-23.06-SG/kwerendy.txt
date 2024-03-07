@@ -1,0 +1,2 @@
+kw1 
+SELECT nazwa FROM towary WHERE promocja = 1
