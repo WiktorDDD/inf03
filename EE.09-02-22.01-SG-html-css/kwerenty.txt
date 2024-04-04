@@ -1,5 +1,0 @@
-kw1
-SELECT * FROM pogoda WHERE miasta_id = 1
-
-
-kw2
