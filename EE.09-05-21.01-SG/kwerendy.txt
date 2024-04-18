@@ -1,0 +1,1 @@
+SELECT czas, kiuerunek, nr_rejestru, status_lotu, FROM przyloty ORDER BY czas ASC
